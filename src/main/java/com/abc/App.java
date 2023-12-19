@@ -10,7 +10,7 @@ public class App
     {
         int l[]={1,8,5,3};
 	int first=0,last=l.length-1;
-	 int a[]=Sort.sorting(l);
+	 int a[]=sort.sorting(l);
 	int key=5;	
    int mid = (first + last)/2;  
    while( first <= last ){  
